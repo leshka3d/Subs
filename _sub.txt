@@ -1,0 +1,696 @@
+1
+00:00:37,039 --> 00:00:39,242
+[car approaching]
+
+2
+00:00:47,183 --> 00:00:48,584
+[car engine stops]
+
+3
+00:00:49,252 --> 00:00:50,886
+[man]
+Get me in ten minutes, Ray.
+
+4
+00:00:51,987 --> 00:00:52,988
+[Ray] Boss.
+
+5
+00:00:53,123 --> 00:00:55,891
+[car door opens, shuts]
+
+6
+00:00:56,025 --> 00:00:57,993
+[footsteps]
+
+7
+00:01:08,438 --> 00:01:10,473
+Bobby.
+Boss?
+
+8
+00:01:11,374 --> 00:01:13,376
+I'll have a pint
+and a pickled egg.
+
+9
+00:01:13,909 --> 00:01:15,077
+Coming straight up.
+
+10
+00:01:16,779 --> 00:01:18,548
+[coins jingle]
+
+11
+00:01:29,592 --> 00:01:32,628
+["Cumberland Gap"
+by David Rawlings plays]
+
+12
+00:01:46,309 --> 00:01:48,911
+[man] If you wish to be
+the king of the jungle,
+
+13
+00:01:49,044 --> 00:01:51,314
+it's not enough
+to act like a king.
+
+14
+00:01:54,217 --> 00:01:55,818
+You must be the king.
+
+15
+00:01:57,086 --> 00:01:58,754
+And there can be no doubt.
+
+16
+00:01:59,889 --> 00:02:03,959
+Because doubt causes chaos
+and one's own demise.
+
+17
+00:02:07,129 --> 00:02:09,332
+[song continues]
+
+18
+00:02:09,465 --> 00:02:11,301
+[door opens]
+
+19
+00:02:12,435 --> 00:02:14,537
+[phone ringing]
+[door shuts]
+
+20
+00:02:15,305 --> 00:02:16,372
+Hello, my love.
+
+21
+00:02:17,240 --> 00:02:18,508
+It's date night tonight.
+
+22
+00:02:18,841 --> 00:02:20,843
+Nine o'clock,
+you and I, River Cafe.
+
+23
+00:02:20,976 --> 00:02:22,845
+[woman speaking indistinctly
+on phone]
+
+24
+00:02:25,114 --> 00:02:26,416
+Who's there?
+
+25
+00:02:26,549 --> 00:02:28,017
+[man speaking indistinctly
+on phone]
+
+26
+00:02:28,150 --> 00:02:29,519
+Ros, who's there?
+
+27
+00:02:29,652 --> 00:02:30,486
+[gunshot]
+
+28
+00:02:30,620 --> 00:02:31,987
+[body thuds]
+
+29
+00:02:32,288 --> 00:02:34,824
+* Kiss me, mama
+Kiss your boy *
+
+30
+00:02:34,957 --> 00:02:37,593
+* Bless me well and lucky *
+
+31
+00:02:37,727 --> 00:02:40,663
+* For I won't be back
+Till I return *
+
+32
+00:02:40,796 --> 00:02:43,833
+* I'm gone to old Kentucky *
+
+33
+00:02:44,267 --> 00:02:47,303
+* Cumberland gap
+It's a devil of a gap *
+
+34
+00:02:47,437 --> 00:02:49,805
+* That's what the scouts
+All tell ya *
+
+35
+00:02:50,473 --> 00:02:53,409
+* Sure enough
+It may get tough *
+
+36
+00:02:53,543 --> 00:02:56,846
+* If it doesn't kill ya
+Kill ya *
+
+37
+00:02:57,313 --> 00:03:03,185
+* Kentucky, she's a-waitin'
+On the other side *
+
+38
+00:03:03,686 --> 00:03:10,693
+* Give you the fever, put
+The daylight in your eyes *
+
+39
+00:03:13,696 --> 00:03:16,266
+* Brother John's
+Already gone *
+
+40
+00:03:16,399 --> 00:03:19,168
+* With the full-blood
+Cherokee maiden *
+
+41
+00:03:19,702 --> 00:03:22,405
+* He made the trip
+In the blizzard's grip *
+
+42
+00:03:22,538 --> 00:03:25,541
+* I'd rather wrestle Satan *
+
+43
+00:03:25,908 --> 00:03:28,911
+* Cumberland gap
+It's a devil of a gap *
+
+44
+00:03:29,044 --> 00:03:31,514
+* Oh, the snow kept coming *
+
+45
+00:03:32,147 --> 00:03:34,750
+* Picked her up
+Upon his back *
+
+46
+00:03:34,884 --> 00:03:38,388
+* By God
+He loved that woman *
+
+47
+00:03:41,291 --> 00:03:44,026
+* Daniel stood
+On the pinnacle rock *
+
+48
+00:03:44,159 --> 00:03:47,363
+* Lookin' up and down
+The mountain *
+
+49
+00:03:47,663 --> 00:03:50,533
+* Took his trusty
+Old flintlock *
+
+50
+00:03:50,666 --> 00:03:53,736
+* Daniel started shoutin'
+Shoutin' *
+
+51
+00:03:54,370 --> 00:04:00,009
+* Kentucky, she's a-waitin'
+On the other side *
+
+52
+00:04:00,710 --> 00:04:02,412
+* Give you the fever *
+
+53
+00:04:02,545 --> 00:04:07,683
+* Put the daylight
+In your eyes *
+
+54
+00:04:10,553 --> 00:04:13,523
+* Cumberland gap
+It's a devil of a gap *
+
+55
+00:04:13,656 --> 00:04:16,626
+* Cumberland gap
+It's a devil of a gap *
+
+56
+00:04:16,759 --> 00:04:19,662
+* Cumberland gap
+It's a devil of a gap *
+
+57
+00:04:19,795 --> 00:04:22,665
+* Cumberland gap
+It's a devil of a gap *
+
+58
+00:04:28,471 --> 00:04:30,506
+[song ends]
+
+59
+00:04:57,967 --> 00:04:58,934
+[ice rattles]
+
+60
+00:04:59,068 --> 00:05:00,370
+[man] Chink, chink.
+
+61
+00:05:07,076 --> 00:05:08,077
+Fletcher.
+
+62
+00:05:08,644 --> 00:05:11,681
+Buenas tardes, Raymondo.
+[chuckles]
+
+63
+00:05:11,814 --> 00:05:15,518
+I should stab you
+with that fucking
+rolling pin.
+
+64
+00:05:15,651 --> 00:05:19,655
+Oh, don't be cunty.
+I was just hoping we could have
+a cozy little drink together.
+
+65
+00:05:20,122 --> 00:05:24,660
+So, I've got a meeting
+on Saturday
+at your favorite newspaper.
+
+66
+00:05:25,761 --> 00:05:30,199
+As the best
+private investigator
+in this smoky little town--
+
+67
+00:05:30,332 --> 00:05:32,468
+good evening,
+ladies and gentlemen--
+
+68
+00:05:32,602 --> 00:05:36,772
+they are ready to put
+150 grand in my pocket
+to give them some filth.
+
+69
+00:05:36,906 --> 00:05:39,208
+Good for me, that,
+but in this case...
+
+70
+00:05:40,943 --> 00:05:42,144
+it's bad for you.
+
+71
+00:05:43,679 --> 00:05:47,282
+So Big Dave,
+editor extraordinaire,
+
+72
+00:05:47,417 --> 00:05:51,220
+has developed a terrible
+antipathy for your boss
+
+73
+00:05:51,353 --> 00:05:54,056
+and his liquorish assortment
+of tasty mates.
+
+74
+00:05:54,189 --> 00:05:59,261
+He's out to destroy him and
+all those that cozy up to him.
+Front cover. Bosh!
+
+75
+00:05:59,395 --> 00:06:01,897
+There will be blood
+and fucking feathers
+everywhere, my darling.
+
+76
+00:06:02,498 --> 00:06:05,000
+Get to it, Fletcher.
+I'm starting to itch.
+
+77
+00:06:05,134 --> 00:06:08,070
+Now, we both know
+that your boss has
+very, very deep pockets,
+
+78
+00:06:08,203 --> 00:06:11,240
+and I would like to
+invite him just to have
+a teeny rummage in them.
+
+79
+00:06:12,842 --> 00:06:14,577
+What the fuck
+are you talking about?
+
+80
+00:06:14,710 --> 00:06:16,345
+If you would be so kind
+
+81
+00:06:16,479 --> 00:06:18,013
+as to furnish me with
+20 million British pounds,
+
+82
+00:06:18,147 --> 00:06:19,782
+I will give you everything--
+
+83
+00:06:19,915 --> 00:06:23,018
+memory cards, contact sheets,
+recordings, the lot,
+
+84
+00:06:23,152 --> 00:06:26,589
+and a modest little screenplay
+I wrote all by myself.
+
+85
+00:06:26,722 --> 00:06:27,757
+Hold on.
+
+86
+00:06:28,491 --> 00:06:31,927
+We just went from £150,000
+to 20 million.
+
+87
+00:06:32,061 --> 00:06:34,229
+That's a steep rise
+in 30 seconds.
+
+88
+00:06:34,363 --> 00:06:37,199
+Yeah, but I would argue
+that you're lucky,
+because that is nothing
+
+89
+00:06:37,332 --> 00:06:41,036
+compared to what I could,
+and perhaps should, be asking.
+
+90
+00:06:41,170 --> 00:06:44,106
+Oh, well, thank God
+you're not greedy, Fletcher,
+
+91
+00:06:44,239 --> 00:06:46,609
+you deluded,
+shit-eating cunt.
+
+92
+00:06:46,742 --> 00:06:48,410
+[chuckles]
+
+93
+00:06:48,544 --> 00:06:50,580
+I quite like it
+when you talk dirty to me.
+
+94
+00:06:51,781 --> 00:06:53,983
+I can feel myself engorging.
+
+95
+00:06:54,750 --> 00:06:57,152
+Come on, have a drink with me.
+It's really yummy.
+
+96
+00:06:57,620 --> 00:07:00,923
+I looked it up. App-ed it.
+1500 quid?
+
+97
+00:07:01,056 --> 00:07:03,659
+I didn't know
+you could spend that much
+on a bottle of scotch.
+
+98
+00:07:04,527 --> 00:07:09,231
+I'm gonna tell you a story
+to demonstrate
+why my quote is my quote.
+
+99
+00:07:10,500 --> 00:07:12,201
+Will you play a game
+with me, Ray?
+
+100
+00:07:13,402 --> 00:07:14,904
+I don't wanna play a game.
+
+101
+00:07:15,671 --> 00:07:18,407
+-Please?
+-No.
+
+102
+00:07:18,841 --> 00:07:20,910
+I said play a fucking game
+with me, Ray.
+
+103
+00:07:22,077 --> 00:07:23,613
+[teapot whistling]
+
+104
+00:07:29,619 --> 00:07:30,686
+Right.
+
+105
+00:07:31,153 --> 00:07:32,254
+Lovely.
+
+106
+00:07:32,755 --> 00:07:36,258
+Now, I want you
+to imagine a character,
+
+107
+00:07:36,391 --> 00:07:39,662
+a dramatic character,
+like in a book or a play
+or a film.
+
+108
+00:07:39,795 --> 00:07:42,397
+But not digital,
+not on a memory stick.
+
+109
+00:07:42,532 --> 00:07:45,968
+Analog. Chemical process.
+"Keep the grain
+in the picture," I say.
+
+110
+00:07:46,101 --> 00:07:47,603
+Old-school, 35 mill.
+
+111
+00:07:47,737 --> 00:07:50,272
+[whirring]
+
+112
+00:07:52,575 --> 00:07:54,309
+Now, I'm seeing this
+through a lens, I am,
+
+113
+00:07:54,443 --> 00:07:56,211
+and I'm not talking about
+the small screen.
+
+114
+00:07:56,345 --> 00:07:57,947
+It's not TV, Raymond.
+
+115
+00:07:58,080 --> 00:08:00,950
+As I said,
+old-school cinema format.
+
+116
+00:08:01,083 --> 00:08:04,887
+It's what we in the business
+called anamorphic,
+or ratio 2.35 to 1.
+
+117
+00:08:05,020 --> 00:08:07,790
+And I want you to join me
+on this cinematic journey,
+
+118
+00:08:07,923 --> 00:08:09,692
+'cause it is cinema, Ray.
+
+119
+00:08:09,825 --> 00:08:12,795
+It's beautiful,
+beautiful cinema.
+
+120
+00:08:13,729 --> 00:08:16,265
+Now, roll camera.
+
+121
+00:08:16,398 --> 00:08:18,167
+[whirring]
+
+122
+00:08:18,467 --> 00:08:20,803
+Enter our protagonist.
+
+123
+00:08:20,936 --> 00:08:23,105
+He's good-looking,
+he's gorgeous,
+
+124
+00:08:23,238 --> 00:08:26,508
+he's golden age,
+he's a proper handsome cunt.
+
+125
+00:08:26,642 --> 00:08:30,145
+His name is Mickey Pearson.
+
+126
+00:08:30,680 --> 00:08:32,815
+Unique background
+has our Mickey.
+
+127
+00:08:32,948 --> 00:08:37,687
+American born, Rhodes scholar,
+so he's born clever but poor.
+
+128
+00:08:37,820 --> 00:08:40,489
+Now, that's quite a leap from
+a trailer park in Americana
+
+129
+00:08:40,623 --> 00:08:43,525
+to the thousand-year-old
+university in old Angleterre,
+
+130
+00:08:43,659 --> 00:08:47,029
+where he studies
+the dark art of horticulture.
+
+131
+00:08:47,162 --> 00:08:50,232
+But he never
+finished his education,
+never went home, because...
+
+132
+00:08:50,365 --> 00:08:52,534
+he found his vocation.
+
+133
+00:08:52,668 --> 00:08:53,969
+A naughty vocation.
+
+134
+00:08:54,804 --> 00:08:56,338
+He's a bad boy.
+
+135
+00:08:56,471 --> 00:08:59,074
+He starts dealing
+the dirty wonder weed
+
+136
+00:08:59,208 --> 00:09:02,377
+to his rich, British,
+upper-class uni pals
+
+137
+00:09:02,511 --> 00:09:04,847
+and realizes
+he's rather good at it.
+
+138
+00:09:04,980 --> 00:09:07,750
+He's clear and objective
+about ambition
+
+139
+00:09:07,883 --> 00:09:11,386
+and he can surf the echelons
+of our complicated culture.
+
+140
+00:09:12,822 --> 00:09:16,258
+He knew how to take advantage
+of his advantage.
+
+141
+00:09:18,260 --> 00:09:19,929
+He was a hungry animal,
+you see.
+
+142
+00:09:20,062 --> 00:09:23,065
+He was powerful and ruthless,
+cunning and quick,
+
+143
+00:09:23,198 --> 00:09:25,567
+charismatic and smart, but...
+
+144
+00:09:25,701 --> 00:09:28,437
+he had to do some naughty
+things to get where he got,
+
+145
+00:09:28,570 --> 00:09:30,205
+to establish his position,
+
+146
+00:09:30,339 --> 00:09:32,975
+to show he wasn't just
+teeth, tits and tan.

@@ -1,0 +1,768 @@
+abundant-ample
+accurate-correct
+achieve-accomplish
+active-energetic
+adamant-firm
+authentic-genuine
+average-ordinary
+awful-dreadful
+awkward-clumsy
+arrive-reach
+arrogant-haughty
+artificial-fake
+ask-question
+atrocious-dreadful
+adamant-unyielding
+amateur-novice
+ambitious-driven
+antagonize-provoke
+apparent-evident
+approve-accept
+abandon-desert
+abbreviate-shorten
+ability-skill
+able-capable
+above-overhead
+after-following
+afraid-frightened
+aggressive-pushy
+aid-assist
+always-forever
+brief-short
+broad-wide
+busy-working
+buy-purchase
+ban-outlaw
+barren-infertile
+bashful-timid
+beautiful-attractive
+beginning-initiate
+believe-trust
+below-under
+beneficial-helpful
+best-finest
+birth-beginning
+blend-combine
+bottom-base
+brave-courageous
+break-fracture
+backbone-spine
+backside-bottom
+bad (not good)-poor
+ballot-poll
+believable-plausible
+belly-stomach
+bendy-flexible
+beneficiant-generous
+bid-tender
+bizarre-weird
+blameless-innocent
+bloodless-cold
+care-concern
+careful-cautious
+cease-discontinue
+certain-positive
+charming-delightful
+coarse-bumpy
+colossal-enormous
+combine-blend
+comical-amusing
+complex-complicated
+competent-capable
+comprehend-understand
+complete-conclude
+compress-squeeze
+competent-capable
+confine-contain
+conflict-oppose
+conflict- struggle
+conform-submit
+confuse- muddle
+concrete-real
+concur-agree
+condemn-censure
+condense-concentrate
+confess-admit
+chilly-cool
+chubby-plump
+clarify-explain
+close-shut
+close-near
+dally-loiter
+damage-impair
+demolish-destroy
+denounce-blame
+different-distinct
+difficult-hard
+divide-separate
+decay-rot
+deduct-subtract
+defend-protect
+defy-resist
+delicate-fragile
+dreadful-terrible
+dry-arid
+dubious-doubtful
+docile-tame
+dormant-sleeping
+dally-loiter
+damage-hurt
+dangerous-unsafe
+daring-bold
+dead-lifeless
+dash-sprint
+daybreak-dawn
+deceptive-misleading
+decontrol-deregulate
+dedicated-committed
+to deduce-to infer
+defective-faulty
+deliberate-planned
+exhilarated-overjoyed
+explicit-exact
+exquisite-delightful
+exterior-outside
+extravagant-extreme
+early-premature
+easy-simple
+eccentric-peculiar
+ecstasy-joy
+empty-drain
+enough-sufficient
+entirely-wholly
+eternal-always
+evident-apparent
+evil-bad, wrong, wicked
+encourage-promote
+enemy-opponent
+enjoy-like
+enlarge-expand
+enormous-vast
+exceptional-remarkable
+excite-arouse
+equity-fairness
+especially-particularly
+essential-fundamental
+to establish-to set up
+to evaluate-to assess
+everlasting-eternal
+exactly-precisely
+enormous-huge
+fatigue-tire
+feasible-possible
+feeble-weak
+ferocious-fierce
+fertile-fruitful
+forgive-pardon
+former-previous
+fraction-part
+frank-candid
+frenzy-fury
+fancy-elaborate
+fantastic-incredible
+fast-rapid
+fat-chubby
+fatal-deadly
+fiction-fantasy
+fill-load
+fix-mend
+flaw-defect
+flimsy-frail
+flippant-impudent
+fluid-liquid
+foe-enemy
+follow-succeed
+forbid-prohibit
+fabulous-marvelous
+face-confront
+fair-honest
+fake-imitation
+false-incorrect
+generous-giving
+gentle-tender
+genuine-real
+gigantic-immense
+give-donate
+gratitude-thankfulness
+great-outstanding
+gratuity-tip
+gravestone-headstone
+to grouse-to grumble
+gain-acquire
+gallant-chivalrous
+gather-collect
+gaudy-showy
+gaunt-scrawny
+to grab-to seize
+grasping-greedy
+gratis-free of charge
+gala-festal
+gallant-audacious
+generous-lavish
+genius-brilliance
+grant-accord,
+grateful-appreciative
+grief-sorrow
+glorify-praise
+gloomy-sullen
+gigantic-immense
+huge-vast
+humble-modest
+humiliate-embarrass
+hot-warm
+hector-bully
+hiatus-gap
+homeopathy-treatment method
+hone-polish
+hue and cry-uproar
+high-elevated
+hold-grasp
+honest-truthful
+hospitable-welcoming
+hostile-antagonistic
+heinous-monstrous
+herculean-formidable
+hermetic-airtight
+humane-gentle
+hydra-problem
+hypertension-high blood pressure
+hypothermia-low body temperature
+humid-wet
+handy-useful
+hard-firm
+hate-loathe
+help-aid
+handy-useful
+holy-religious
+hesitate-pause
+healthy-strong
+improvise-manage
+impugn-censure
+impute-attribute
+inanity-stupidity
+incarnate-personified
+ichor-fluid
+idealist-romantic
+ilk-type
+illicit-illegal
+imam-leader
+ineradicable-permanent
+inertia-inactivity
+infallible-foolproof
+inquisition-inquiry
+inscrutable-enigmatic
+inter-bury
+immobilize-halt
+impediment-obstruction
+impending-imminent
+impetuous-impulsive
+impetus-momentum
+impinge-intrude
+implacable-pitiless
+importune-pester
+imprecation-malediction
+impregnable-unassailable
+incentive-inducement
+inordinate-excessive
+incisive-keen
+inculcate-instill
+indigent-poor
+juxtapose-put together
+jealous-envious
+joy-delight
+jubilant-overjoyed
+journeyman-artisan
+joust-dispute
+jubilee-anniversary
+judicial-legal
+judicious-sensible
+juggernaut-idol
+juncture-stage
+junket-jaunt
+junta-military rule
+justify-validate
+jingoism-patriotism
+jitney-autobus
+jocular-funny
+jocund-gay
+joist-beam
+jeopardy-threat
+jeremiad-tirade
+jettison-throw away
+jig-dance
+jihad-war
+jackknife-pocket knife
+jaded-fed up
+jargon-slang, lingo
+jejune-irreverent
+jell-take shape
+keep-hold
+kind-helpful
+kid-child
+kin-relative
+keen-eager
+kindergarten-nursery
+knock-censure
+knit-fasten
+knotty-complex
+kudos-applause
+kneel-bow down
+knife-cutter
+know -recognize 
+knowledge -awareness 
+knob -grip
+kowtow-genuflect
+kopje-hill
+knell-sound
+kunzite-transparent hem
+kotow -grovel
+kitchen-cookhouse
+kidnap-capture
+key-cue
+king-ruler
+kit-tools
+kick-give up
+kelp-seaweed 
+kill-murder
+kayak-outrigger 
+ketchup-gravy
+lodestar-guiding
+lucidity-fluency
+lulu-beauty
+ligament-tendon
+ligature-binder
+loose-slack
+lure-attract
+luxurious-extravagant
+legitimate-valid
+lethal-deadly
+lineage-ancestry
+lion’s share-a big share
+least-fewest
+legible-readable
+lenient-lax
+lipid-oils
+lissome-lithe
+livid-furious
+loopy-crazy
+litter-waste
+liturgy-holy sacrament
+lament-grieve
+large-big
+last-final
+lacking-missing
+last-final
+leading-main
+listless-lethargic
+logical-sensible
+long-lengthy
+militate-oppose
+minatory-menacing
+mirth-laughter
+montage-mixture
+mosaic-montage
+mosey-stroll
+manifestation-symptom
+mansard-hip roof
+matriculation-admission
+monolithic-monumental
+muse-consider
+myriad-numberless
+memento-keepsake
+menial-boring
+mentor-teacher
+misanthropy-unfriendliness
+mandala-figure
+maneuver-tactic
+manicured-cut fingernail
+mesa-flat tableland
+mesmerize-captivate
+magnum-large bottle
+metabolism-reactions
+microcosm-example
+mote-blot
+mausoleum-catacomb
+maverick-unconventional
+mean-represent
+medley-mixture
+melange- blew
+notwithstanding-However,
+nugatory-worthless
+numerous-many
+neologism-coinage
+nexus-link
+neutral-impartial
+niche-role
+new-modern
+nadir-pit
+nary-neither
+nee-need
+naked-bare
+nameless-anonymous
+napkin-serviette
+to narrate-to relate
+a narrative-a story
+nip and tuck-close, near
+non sequitur-response
+nuance-fine distinction
+nobility-the aristocracy
+to nominate-to appoint
+non-stop-continuous
+necessary-essential
+nightfall-dusk
+nonchalant-lackadaisical
+normal-usual
+noon-midday
+noted-famous
+nice-pleasing
+obdurate-stubborn
+object-thing
+obligatory-compulsory
+opaque-solid
+obstinate-stubborn
+odd-peculiar
+offend-disgust
+ornament-decoration
+outside-external
+onslaught-ambush
+obey-comply
+ominous-menacing
+opaque-unclear
+open-originate
+oblique-indirect
+omnipotent-all-powerful
+obsolete-out of date
+oblivious-unconscious
+obnoxious-repulsive
+opponent-enemy
+optimistic-hopeful
+optional-voluntary
+off-season-low season
+to operate-to function
+organic-biological
+observe-examine
+obsolete-extinct
+ordinary-usual
+outrageous-shocking
+outstanding-distinguished
+prompt-punctual
+prosperous-thriving
+proud-arrogant
+poor-destitute
+portion-piece
+prevent-hinder
+probable-liable
+painstaking-fastidious
+passive-yielding
+past-preceding
+preserve-save
+pretty-attractive
+prevalent-widespread
+plausible-logical
+plentiful-abundant
+pliable-compliant
+possible-plausible
+precarious-shaky
+precious-prized
+patience-perseverance
+peculiar-bizarre
+perfect- accurate
+prejudiced-influenced
+premature-hasty
+premeditated-calculated
+permanent-lasting
+perpetual-incessant
+persuade-influence
+profit-benefit
+quadriceps-muscle of thigh
+quagmire-swamp
+quarter-district
+queasy-sick
+querulous-difficult
+queue-row
+quintessential- model
+quorum- assemblage
+qualified-capable
+question- ask
+quiet-silent
+quit-withdraw
+quake-tremble
+quiet-peaceful
+quite-fairly/ pretty
+queen-royalty
+quick- fast
+quartz-mineral
+quests-search
+quoted-repeat
+quaffs-slurp
+quails-shrink
+quainter-charming
+quacking-shake
+quantum-amount
+quagmire-bog
+queries-interrogation
+quaestor-officer
+quadrant-fourth
+quietly-quietly
+quicker-quicker
+resuscitate-save
+retrench-cut back
+riff-jazz
+robust-strong
+roil-agitate
+reactionary-back looking
+radiant-joyful
+rakish-stylish
+ruddy-glowing
+rapacious-grasping
+rapport-link
+raze-ruin
+reactionary-back looking
+recapitulate-repeat
+reciprocal-inverse
+reclamation-retrieval
+reclusive-ascetic
+rectify-put right
+red herring-deviation
+rectify-put right
+regnant-authority
+relegate-consign
+relief-assistance
+remedial-curative
+regime-rule,
+renege-revoke
+renovate-modernize
+resonance-timbre
+resound-boom
+restitution-reimbursement
+sandbagger- virulent
+sanguine-positive
+sarong- miniskirt
+satiate-slake
+satire- lampoon
+scruple-regret
+scrutinize-examine
+scot work-chores
+scuttle-spoil
+sear-flame
+sec-second
+sedate-cool
+seder-ceremonial dinner
+sediment-dregs
+segment-slice
+seminary-institution
+sagacity-prudence
+sensibility-awareness
+septic-diseased
+serendipity-chance
+sagacity-prudence
+sampan-boat
+sampler-needle work
+sanatorium-clinic
+sanctity- sacredness
+scam- swindle
+sceptic-skeptic
+sciatica-backache
+score-get
+scorn-disrespect
+trifle-drop
+trilogy-triplet
+trundle-push
+thrive-prosper
+total-complete
+taboo-unthinkable
+tactile-perceptible
+talk turkey-get to point
+tank-container
+tariff-excise
+transmute-transform
+treacly-syrupy
+trepidation-apprehension
+triage-sorting
+trifle-drop
+taxidermy-artistry
+tchotchkes-trifle
+telepathy-sixth sense
+temperance-control
+tenacious-firm
+totem-experiment
+traction-footing
+tranquil-restful
+transcend-exceed
+transient-passing
+tessellate-form mosaic pattern
+therapeutic-remedial
+tipping point-change
+titan-reputation
+torpid-lazy
+uneducated-unlettered
+untold-boundless
+untouchable-unpronounceable
+unduly-excessively
+undying-deathless
+unearth-locate
+untried-new
+unease-disquiet
+update-modify
+upend-position
+untimely-inopportune
+untiring-energetic
+urban-citified
+unregenerate-obstinate
+urbane-stylish
+upbringing-rearing
+upchuck-sick
+upcoming-approaching
+undergird-support
+untoward-untoward
+undulate-wavy
+undulating-rolling
+unbiased-impartial
+upset-perturb
+urgent-imperative
+uncanny-creepy
+vale-valley
+valedictory-farewell speech
+vanquish-subdue
+vascular-conduction
+vacant-empty
+vegetate-stagnate
+vague-unclear
+venality- corruption
+vendetta-revenge
+veneer-finish
+venerable-revered
+venomous-lethal
+ventricle-chamber
+veracity-authenticity
+vertex-apogee
+verve-vigor
+viability-possibility
+vintage-classic
+vicious-malicious
+virago-strong woman
+virulent-potent
+vista-view
+viticulture-grape growing
+vituperative-scathing
+vociferous-raucous
+voguism-acceptance
+voracious-hungry
+voraciousness-hunger
+vortex-current
+victory-success
+Winner-Victor
+Woman-Lady
+Wonderful- Amazing
+well timed-timely
+weary-lethargic
+win-prevail
+wise-smart
+wonderful-splendid
+worn-old
+win-succeed
+wrong-mistaken
+Walk-Stroll
+Want-Desire
+Weak-Feeble
+Word-Expression
+wild-reckless
+warranty-guarantee
+well mannered-polite
+Write-Record
+wholehearted-sincere
+Woof-Filling
+Wry-misdirecting
+Wunderkind-genius
+wealth-assets
+Wadi-stream
+Wan-Pale
+Wheedle-charm
+Whiplash-Lash of whip
+Xenophobic-Disease
+Xeric-Dry
+Xyloid-Woody
+Xylems-Woody plant
+Xylene-Dissolver
+Xenial-Friendly
+Xylol-Solvent
+Xylose-Sugar
+Xenografts-Transplant
+Xenophobia-Social phobia
+Xenodochy-Hospitality
+Xylophones-Percussion instrument
+X-Division-Separation
+Xiphoid-Sword-shaped
+Xeroxing-Duplicator
+Xanthate-Salt
+Xerothermic-Desertic
+Xanthoma-Skin disease
+Xavier-Francisco
+Xanthe-Termagant
+Xenogeny-Tocology
+Xanthic-Light
+Xmas-Christmas
+Xebecs-Clippers
+Xyloid-Wooden
+Xanadu-Luxury
+Xanthic-Yellowish
+Xanthippe-Termagant
+yo-yo-alternate
+young-blooming
+youthful-active
+yowl-bellow
+yowling-caterwauling
+yearlong-annual
+yeasty-frothy
+yell at-scold
+yelp-bawl
+yenta-gossiper
+yahoo-bumpkin
+yak-blab
+yank-drag
+yap-barking
+yard sale-garage sale
+yardstick-average
+yaw-curve
+yawn-Bore
+yearbook-Record
+yodel-sing
+y-fronts-briefs
+yachter-Jack
+yack-prattle
+yacht-Boat
+yackety-yak-chatter
+yip-cry
+yet-after all
+yokel-bucolic
+young bird-fledgling
+yesterday-last day
+zip-postal code
+zest-flavor
+zigadene-death camas
+zelkova-caucasian elm
+zealous-greedy
+zebra crossing-pedestrian crossing
+zero in-range in
+zander-pike-perch
+zeal-fire
+zephyr-breeze
+zerogon-apeirogon
+zesty-hot
+zealously-eagerly
+zamboni-ice resurfacer
+zeitgeisty-trendy
+zaftig-rubenesque
+zaman-monkey pod
+zincous-hurry
+zinc vitriol-white vitriol
+zero point-nothing
+zealotry-fanatism
+zeppelin-rigid airship
+z score-standard score
+zazaki-dimli
+zilch-nil
+zinc oxide-chinese white
+zany-humourless
+zillion-ordinal
+zany-goofball

@@ -1,0 +1,49 @@
+footmen
+roadmen
+storyteller
+dickhead
+bootcuts
+paperweight
+inhaler
+precautionary
+guvnor
+blim
+indiscretions
+Ticktock
+darling
+
++<suffix> + s
+prefixes 
+prefixes + s
+
+beauteous - beauty
+gentrification
+
+smackies   smacky
+investigator = investigate
+protagonist
+
+-[message manager]
++[tools]
+-[config]
+    clear mode  * ** <>
+    pronoun 
+    prepositions
+    axulary verbs
+    simple popular list 
+    search word forms  <level> 
+    search verbs form  <level>
+    link infinitive    
+    numbers
++[вычистить примитивы]
++[вычистить по уровню + суффиксы]
+-[remove numbers]
+-[remove empty]
+===========================================
+-[формы глаголов] 
+    вычистить 
+    добавить инфинитив
+===========================================
+--перевод по уровню local\google
+--[синоним]
+
