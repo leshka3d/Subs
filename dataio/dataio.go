@@ -44,7 +44,7 @@ func DataLoad(f string) []string {
 		}
 		return arr
 	}
-	return nil
+	panic(err)
 }
 
 //LoadDictionary - load dictionary data
