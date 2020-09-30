@@ -12,6 +12,7 @@ func init() {
 func FixDigits(l string) string {
 	l = fixDigits(l)
 	l = fixCommon(l, _num)
+	// [e]-th
 	return l
 }
 
