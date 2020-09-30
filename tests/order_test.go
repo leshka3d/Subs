@@ -9,7 +9,7 @@ import (
 func TestOrder1(t *testing.T) {
 
 	r := hide.RemoveByLevel("phone", 50)
-	if r == "*" {
+	if r == "*****" {
 		return
 	}
 	t.Fail()
@@ -17,7 +17,7 @@ func TestOrder1(t *testing.T) {
 func TestOrder3(t *testing.T) {
 
 	r := hide.RemoveByLevel("caller", 50)
-	if r == "*" {
+	if r == "******" {
 		return
 	}
 	t.Fail()
@@ -42,6 +42,14 @@ func TestOrder5(t *testing.T) {
 
 	r := hide.RemoveByLevel("waolkmaniotic", 99)
 	if r == "waolkmaniotic" {
+		return
+	}
+	t.Fail()
+}
+func TestOrder6(t *testing.T) {
+
+	r := hide.RemoveByLevel("against", 50)
+	if r == "******" {
 		return
 	}
 	t.Fail()

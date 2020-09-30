@@ -27,7 +27,7 @@ func init() {
 }
 
 //Star - get asterix string
-func Star(i int) string {
+func star(i int) string {
 	if i > 6 {
 		i = 6
 	}
@@ -104,14 +104,14 @@ func fixCommon(l string, wList []string) string {
 		starCnt := len(_ax[i])
 		if _ax[i][0] == '\'' {
 			for k := 0; k < len(space); k++ {
-				l = caseInsensitiveReplace(l, _ax[i]+space2reg(space[k]), Star(starCnt)+space[k])
+				l = caseInsensitiveReplace(l, _ax[i]+space2reg(space[k]), star(starCnt)+space[k])
 			}
 		} else {
 
 			for j := 0; j < len(space); j++ {
 				for k := 0; k < len(space); k++ {
 
-					l = caseInsensitiveReplace(l, space2reg(space[j])+_ax[i]+space2reg(space[k]), space[j]+Star(starCnt)+space[k])
+					l = caseInsensitiveReplace(l, space2reg(space[j])+_ax[i]+space2reg(space[k]), space[j]+star(starCnt)+space[k])
 				}
 			}
 		}

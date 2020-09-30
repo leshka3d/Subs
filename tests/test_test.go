@@ -16,6 +16,13 @@ func TestXxx(t *testing.T) {
 		t.Fail()
 	}
 }
+func TestDigits1(t *testing.T) {
+
+	r := hide.FixDigits("123 AA two")
+	if r != "*** AA ***" {
+		t.Fail()
+	}
+}
 func TestMain(m *testing.M) {
 	//setup()
 	code := m.Run()

@@ -1,15 +1,15 @@
 arise|arose|arisen|возникать
 awake|awoke|awoke|пробуждаться
-be|was/were|been|быть
+be|was|were|been|быть
 bear|bore|born|родиться
 beat|beat|beaten|бить
 become|became|become|становиться
 befall|befell|befallen|приключаться
-beget|begot/begat|begot/begotten|вызывать, порождать
+beget|begot|begat|begot|begotten|вызывать, порождать
 begin|began|begun|начинать
 behold|beheld|beheld|увидеть, узреть
 bend|bent|bent|сгибать
-beseech|beseech/besought|beseech/besought|просить, умолять
+beseech|beseech|besought|beseech|besought|просить, умолять
 beset|beset|beset|осаждать, окружать
 bestride|bestrode|bestridden|садиться, сидеть верхом
 bet|bet|bet|держать пари, быть уверенным
@@ -17,22 +17,22 @@ bid|bid|bid|предлагать цену
 bind|bound|bound|вязать, связывать
 bite|bit|bitten|кусать
 bleed|bled|bled|кровоточить
-bless|blessed/blest|blessed/blest|благословлять
+bless|blessed|blest|blessed|blest|благословлять
 blow|blew|blown|дуть
 break|broke|broken|ломать
 breed|bred|bred|размножать, порождать
 bring|brought|brought|приносить
-broadcast|broadcast/broadcasted|broadcast/broadcasted|транслировать
+broadcast|broadcast|broadcasted|broadcast|broadcasted|транслировать
 browbeat|browbeat|browbeaten|запугивать
 build|built|built|строить
 burn|burnt|burnt|гореть, жечь
 burst|burst|burst|взрываться
-bust|bust/busted|bust/busted|сломать, разрушать
+bust|bust|busted|bust|busted|сломать, разрушать
 buy|bought|bought|покупать
 cast|cast|cast|бросать, кидать
 catch|caught|caught|ловить
 choose|chose|chosen|выбирать
-cleave|cleave/clove/cleft|cleaved/cloven|раскалывать
+cleave|cleave|clove|cleft|cleaved|cloven|раскалывать
 cling|clung|clung|цепляться
 come|came|come|приходить
 cost|cost|cost|стоить
@@ -42,7 +42,7 @@ deal|dealt|dealt|иметь дело
 dig|dug|dug|копать
 do|did|done|делать
 draw|drew|drawn|рисовать
-dream|dreamt/dreamed|dreamt/dreamed|мечтать
+dream|dreamt|dreamed|dreamt|dreamed|мечтать
 drink|drank|drunk|пить
 drive|drove|driven|вести машину
 dwell|dwelt|dwelt|подробно останавливаться (на чем-то)
@@ -57,8 +57,8 @@ flee|fled|fled|убегать, спасаться бегством
 fling|flung|flung|бросать, кидать
 fly|flew|flown|летать
 forbear|forbore|forborne|воздерживаться
-forbid|forbade/forbad|forbidden|запрещать
-forecast|forecast/forecasted|forecast/forecasted|предсказывать
+forbid|forbade|forbad|forbidden|запрещать
+forecast|forecast|forecasted|forecast|forecasted|предсказывать
 foresee|foresaw|foreseen|предвидеть
 foretell|foretold|foretold|предсказывать
 forget|forgot|forgotten|забывать
@@ -68,31 +68,31 @@ forswear|forswore|foresworn|отказываться, отрекаться
 freeze|froze|frozen|замерзать
 gainsay|gainsaid|gainsaid|отрицать, возражать
 get|got|got|получать
-gird|girt/girded|girt/girded|опоясывать, подпоясываться
+gird|girt|girded|girt|girded|опоясывать, подпоясываться
 give|gave|given|давать
 go|went|gone|идти
 grind|ground|ground|молоть
 grow|grew|grown|расти
 hang|hung|hung|вешать
 have|had|had|иметь
-hew|hewed|hewed/hewn|разрубать рассекать
+hew|hewed|hewed|hewn|разрубать рассекать
 hear|heard|heard|слышать
 hide|hid|hidden|прятаться
 hit|hit|hit|ударять
 hold|held|held|держать
 hurt|hurt|hurt|повредить, ушибить
-input|input/inputted|input/inputted|вводить (в компьютер)
+input|input|inputted|input|inputted|вводить (в компьютер)
 inset|inset|inset|вставлять, вкладывать
 interweave|interwove|interwoven|переплетать, сплетать
 keep|kept|kept|держать
 kneel|knelt|knelt|стоять на коленях
-knit|knit/knitted|knit/knitted|вязать
+knit|knit|knitted|knit|knitted|вязать
 know|knew|known|знать
 lay|laid|laid|класть
-lean|leant/leaned|leant/leaned|наклоняться, прислоняться
+lean|leant|leaned|leant|leaned|наклоняться, прислоняться
 lead|led|led|вести
-learn|learnt/learned|learnt/learned|учить (что-либо)
-leap|leapt/leaped|leapt/leaped|прыгать
+learn|learnt|learned|learnt|learned|учить (что-либо)
+leap|leapt|leaped|leapt|leaped|прыгать
 leave|left|left|оставлять
 lend|lent|lent|одалживать
 let|let|let|позволять
@@ -108,11 +108,11 @@ mishit|mishit|mishit|промахнуться
 mislay|mislaid|mislaid|положить не на место
 mislead|misled|misled|вводить в заблуждение
 misread|misread|misread|прочитать неправильно
-misspell|misspelt/misspelled|misspelt/misspelled|писать с орфографическими ошибками
+misspell|misspelt|misspelled|misspelt|misspelled|писать с орфографическими ошибками
 misspend|misspent|misspent|неразумно, зря тратить
 mistake|mistook|mistaken|ошибаться
 misunderstand|misunderstood|misunderstood|неправильно понять
-mow|mowed|mowed/mown|косить
+mow|mowed|mowed|mown|косить
 outbid|outbid|outbid|перебивать цену
 outdo|outdid|outdone|превзойти
 outgrow|outgrew|outgrown|перерастать, вырастать
@@ -139,7 +139,7 @@ overthrow|overthrew|overthrown|перебрасывать, свергать
 partake|partook|partaken|принимать участие
 pay|paid|paid|платить
 prepay|prepaid|prepaid|платить вперёд
-prove|proved|proved/proven|доказывать
+prove|proved|proved|proven|доказывать
 put|put|put|класть
 quit|quit|quit|оставлять, покидать
 read|read|read|читать
@@ -169,13 +169,13 @@ send|sent|sent|отправлять
 set|set|set|ставить, устанавливать
 sew|sewed|sewn|шить
 shake|shook|shaken|трясти
-shear|sheared|sheared/shorn|стричь
+shear|sheared|sheared|shorn|стричь
 shed|shed|shed|проливать
 shine|shone|shone|светить, сиять
 shoe|shod|shod|обувать, подковывать
 shoot|shot|shot|стрелять
 show|showed|shown|показывать
-shrink|shrank/shrunk|shrunk|сокращаться, сжиматься
+shrink|shrank|shrunk|shrunk|сокращаться, сжиматься
 shut|shut|shut|закрывать
 sing|sang|sung|петь
 sink|sank|sunk|тонуть, погружаться
@@ -190,21 +190,21 @@ smell|smelt|smelt|чувствовать запах, нюхать
 smite|smote|smitten|ударять, бить
 sow|sowed|sown|сеять
 speak|spoke|spoken|говорить
-speed|sped/speeded|sped/ speeded|мчаться, спешить
+speed|sped|speeded|sped| speeded|мчаться, спешить
 spend|spent|spent|тратить
-spell|spelt/spelled|spelt/spelled|писать или произносить по буквам
-spill|spilt/spilled|spilt/spilled|проливать
+spell|spelt|spelled|spelt|spelled|писать или произносить по буквам
+spill|spilt|spilled|spilt|spilled|проливать
 spin|spun|spun|прясть, оборачиваться
 spit|spat|spat|плевать
 split|split|split|расколоть, разбить
-spoil|spoilt/spoiled|spoilt/spoiled|портить
-spotlight|spotlit/spotlighted|spotlit/spotlighted|осветить
+spoil|spoilt|spoiled|spoilt|spoiled|портить
+spotlight|spotlit|spotlighted|spotlit|spotlighted|осветить
 spread|spread|spread|распространяться
 spring|sprang|sprung|бросаться, возникнуть
 stand|stood|stood|стоять
 stick|stuck|stuck|приклеивать, сдержаться
 sting|stung|stung|жалить
-stink|stank/stunk|stunk|вонять
+stink|stank|stunk|stunk|вонять
 steal|stole|stolen|красть
 strew|strewed|strewn|разбрасывать
 stride|strode|stridden|шагать
@@ -222,7 +222,7 @@ teach|taught|taught|обучать
 tear|tore|torn|рвать
 tell|told|told|сказать
 think|thought|thought|думать
-thrive|throve/thrived|thriven/thrived|преуспевать, процветать
+thrive|throve|thrived|thriven|thrived|преуспевать, процветать
 throw|threw|thrown|бросать
 thrust|thrust|thrust|толкать, засовывать
 tread|trod|trodden|ступать, наступать
@@ -243,9 +243,10 @@ wake|woke|woken|просыпаться, будить
 waylay|waylaid|waylaid|подстерегать
 wear|wore|worn|носить (одежду)
 weave|wove|woven|ткать, плести
-wed|wed/wedded|wed/wedded|жениться, выходить замуж
+wed|wed|wedded|wed|wedded|жениться, выходить замуж
 weep|wept|wept|плакать
-wet|wet/wetted|wet/wetted|мочить, смачивать
+wend|went|went
+wet|wet|wetted|wet|wetted|мочить, смачивать
 win|won|won|выигрывать
 wind|wound|wound|обматывать, заводить (часы)
 withdraw|withdrew|withdrawn|взять назад

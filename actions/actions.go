@@ -14,8 +14,8 @@ func empty(x string) string {
 // GetActions - create configuration parameters object
 func GetActions(p1, p2 string) []func(string) string {
 	var l = len(p1)
-	if l > 5 {
-		l = 5
+	if l > 7 {
+		l = 7
 	}
 	l++
 	var aindex = 0
@@ -42,6 +42,10 @@ func GetActions(p1, p2 string) []func(string) string {
 	if strings.Contains(p1, "V") {
 		// verb forms not ready yet
 		act[aindex] = empty
+		aindex++
+	}
+	if strings.Contains(p1, "D") {
+		act[aindex] = hide.FixDigits
 		aindex++
 	}
 	// => remove numbers

@@ -51,7 +51,7 @@ func RemoveByLevel(mes string, level int) string {
 					//txt = strings.ReplaceAll(txt, v, v+"/"+strconv.Itoa(w.Index))
 					// try to find synonym
 				} else {
-					txt = strings.ReplaceAll(txt, v, Star(len(v)))
+					txt = strings.ReplaceAll(txt, v, star(len(v)))
 				}
 				continue
 			}
@@ -90,10 +90,9 @@ func RemoveByLevel(mes string, level int) string {
 		}
 
 	}
-	return txt
+	return strings.TrimSpace(txt)
 }
 
-//replaceFromDict(txt, word, wSuf string, l int) (string, bool) {
 func replaceModify(wordlow, word, suf, txt string, l int) (string, bool) {
 	wLow := wordlow //strings.ToLower(word)
 	wSuf := strings.TrimSuffix(wLow, suf)
@@ -105,46 +104,19 @@ func replaceModify(wordlow, word, suf, txt string, l int) (string, bool) {
 	if r {
 		return txt, r
 	}
-	/*
-		w, ok := _dictOrder[wSuf]
-		if ok {
-			if w.Index > l {
-				txt = strings.ReplaceAll(txt, word, word+"/^"+strconv.Itoa(w.Index))
-			} else {
-				txt = strings.ReplaceAll(txt, word, "#")
-			}
-			return txt, true
-		}*/
 
 	txt, r = replaceFromDict(txt, word, wSuf+"e", l)
 	if r {
 		return txt, r
 	}
-	/*w, ok = _dictOrder[wSuf+"e"]
-	if ok {
-		if w.Index > l {
-			txt = strings.ReplaceAll(txt, word, word+"/^"+strconv.Itoa(w.Index))
-		} else {
-			txt = strings.ReplaceAll(txt, word, "#")
-		}
-		return txt, true
-	}
-	*/
+
 	wSuf1 := strings.TrimSuffix(wSuf, "i")
 	if wSuf1 != wSuf {
 		txt, r = replaceFromDict(txt, word, wSuf1+"y", l)
 		if r {
 			return txt, r
 		}
-		/*w, ok = _dictOrder[wSuf]
-		if ok {
-			if w.Index > l {
-				txt = strings.ReplaceAll(txt, word, word+"/^"+strconv.Itoa(w.Index))
-			} else {
-				txt = strings.ReplaceAll(txt, word, "#")
-			}
-			return txt, true
-		}*/
+
 	}
 	sufLen := len(wSuf)
 	if sufLen > 3 {
@@ -155,16 +127,7 @@ func replaceModify(wordlow, word, suf, txt string, l int) (string, bool) {
 			if r {
 				return txt, r
 			}
-			/*
-				w, ok = _dictOrder[wSuf]
-				if ok {
-					if w.Index > l {
-						txt = strings.ReplaceAll(txt, word, word+"/^"+strconv.Itoa(w.Index))
-					} else {
-						txt = strings.ReplaceAll(txt, word, "#")
-					}
-					return txt, true
-				}*/
+
 		}
 
 	}
@@ -174,16 +137,6 @@ func replaceModify(wordlow, word, suf, txt string, l int) (string, bool) {
 	if r {
 		return txt, r
 	}
-	/*
-		w, ok = _dictOrder[wSuf]
-		if ok {
-			if w.Index > l {
-				txt = strings.ReplaceAll(txt, word, word+"/^"+strconv.Itoa(w.Index))
-			} else {
-				txt = strings.ReplaceAll(txt, word, "#")
-			}
-			return txt, true
-		}*/
 
 	return txt, false
 }
@@ -193,16 +146,9 @@ func replaceFromDict(txt, word, wSuf string, l int) (string, bool) {
 		if w.Index > l {
 			txt = strings.ReplaceAll(txt, word, word /*+"/^"+strconv.Itoa(w.Index)*/)
 		} else {
-			txt = strings.ReplaceAll(txt, word, Star(len(word)))
+			txt = strings.ReplaceAll(txt, word, star(len(word)))
 		}
 		return txt, true
 	}
 	return txt, false
 }
-
-//-s
-// -es
-//-ed
-//-ing
-// -ly и другие
-// таблица неправильных глаголов
