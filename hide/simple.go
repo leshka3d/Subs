@@ -1,6 +1,7 @@
 package hide
 
 import (
+	"errors"
 	"regexp"
 	"strings"
 
@@ -24,6 +25,17 @@ func init() {
 	_p = tools.DataLoad("prep.txt")
 	Space = []string{" ", ",", ".", "]", "[", "-", "+", "(", ")", "\"", "<", ">", "*", "?", "!", "\""}
 }
+
+//Star - get asterix string
+func Star(i int) string {
+	if i > 6 {
+		i = 6
+	}
+	if i < 0 {
+		panic(errors.New("value out of range"))
+	}
+	return _star[i]
+}
 func cleanStarString(s string) string {
 
 	for true {
@@ -45,7 +57,7 @@ func caseInsensitiveReplace(subject string, search string, replace string) strin
 }
 
 // FixAll - remove all nessesery data as configured
-func FixAll(l string, cfg map[string]int) string {
+func FixAll(l string) string {
 	l = fixCommon(l, _p)
 	l = fixCommon(l, _words)
 	l = fixCommon(l, _pr)
@@ -85,27 +97,26 @@ func fixCommon(l string, wList []string) string {
 	space := Space
 	l = strings.ReplaceAll(l, "\r", " ")
 	l = strings.ReplaceAll(l, "\n", " ")
+	l = strings.ReplaceAll(l, "'", " '")
 	l = " " + l + " "
 
 	for i := 0; i < len(_ax); i++ {
 		starCnt := len(_ax[i])
-		if starCnt > 6 {
-			starCnt = 6
-		}
 		if _ax[i][0] == '\'' {
 			for k := 0; k < len(space); k++ {
-				l = caseInsensitiveReplace(l, _ax[i]+space2reg(space[k]), _star[starCnt]+space[k])
+				l = caseInsensitiveReplace(l, _ax[i]+space2reg(space[k]), Star(starCnt)+space[k])
 			}
 		} else {
 
 			for j := 0; j < len(space); j++ {
 				for k := 0; k < len(space); k++ {
 
-					l = caseInsensitiveReplace(l, space2reg(space[j])+_ax[i]+space2reg(space[k]), space[j]+_star[starCnt]+space[k])
+					l = caseInsensitiveReplace(l, space2reg(space[j])+_ax[i]+space2reg(space[k]), space[j]+Star(starCnt)+space[k])
 				}
 			}
 		}
 	}
 	l = cleanStarString(l)
+	l = strings.ReplaceAll(l, " '", "'")
 	return l
 }

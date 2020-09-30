@@ -29,3 +29,10 @@ func TestPrSimple3(t *testing.T) {
 	}
 	t.Fail()
 }
+func TestPrSimple4(t *testing.T) {
+	r := hide.FixPr("i've")
+	if r == "*'ve" {
+		return
+	}
+	t.Fail()
+}

@@ -1,7 +1,6 @@
 package hide
 
 import (
-	"strconv"
 	"strings"
 
 	tools "../dataio"
@@ -52,7 +51,7 @@ func RemoveByLevel(mes string, level int) string {
 					//txt = strings.ReplaceAll(txt, v, v+"/"+strconv.Itoa(w.Index))
 					// try to find synonym
 				} else {
-					txt = strings.ReplaceAll(txt, v, "*")
+					txt = strings.ReplaceAll(txt, v, Star(len(v)))
 				}
 				continue
 			}
@@ -192,9 +191,9 @@ func replaceFromDict(txt, word, wSuf string, l int) (string, bool) {
 	w, ok := _dictOrder[wSuf]
 	if ok {
 		if w.Index > l {
-			txt = strings.ReplaceAll(txt, word, word+"/^"+strconv.Itoa(w.Index))
+			txt = strings.ReplaceAll(txt, word, word /*+"/^"+strconv.Itoa(w.Index)*/)
 		} else {
-			txt = strings.ReplaceAll(txt, word, "#")
+			txt = strings.ReplaceAll(txt, word, Star(len(word)))
 		}
 		return txt, true
 	}
